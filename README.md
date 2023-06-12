@@ -1,6 +1,6 @@
 # OperationResearch#
 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=java&logoColor=white">
 
 ## 🏫 Pukyong National University 
 
